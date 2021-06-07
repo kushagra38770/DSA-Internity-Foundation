@@ -1,0 +1,31 @@
+Q1. What is data?
+A1. Data is information processed or stored by a computer, it is a collection of facts, such as 
+    numbers, words, measurements, observations or just descriptions of things. It may be processed 
+    by the computer's CPU and is stored in files and folders on the computer's hard disk. It is a 
+    bunch of ones and zeros, known as binary data. Because all computer data is in binary format, 
+    it can be created, processed, saved, and stored digitally.
+    
+Q2. What is data structures?
+A2. A data structure is a collection of data type 'values' which are stored and organized in such a 
+    way that it allows for efficient access and modification. In some cases a data structure can become 
+    the underlying implementation for a particular data type. There are several basic and advanced types 
+    of data structures, all designed to arrange data to suit a specific purpose. Data structures make it 
+    easy for users to access and work with the data they need in appropriate ways. Most importantly, data 
+    structures frame the organization of information so that machines and humans can better understand it.
+    
+Q3. What is abstract data types?
+A3. A normal data type is basically a type of data that can be used in different computer program, it signifies 
+    the type like integer, float etc. The abstract datatype is special kind of datatype, whose behavior is defined 
+    by a set of values and set of operations. The keyword “Abstract” is used as we can use these datatypes, we can 
+    perform different operations. But how those operations are working that is totally hidden from the user. The 
+    ADT is made of with primitive datatypes, but operation logics are hidden. Some examples of ADT are Stack, Queue,
+    List etc.
+    
+Q4. Need of data structures in real life.
+A4. Data structures are the means by which computers store, organize, and access data. The more data a computer must
+    handle, the faster its processor must work. As data increases, the processor can fail to keep up unless that data
+    is well organized into a data structure. Second, data structures make data searchable. We've all looked at a long 
+    list of numbers or huge spreadsheet and wondered how we are ever going to find what we need. Data  structures 
+    have search functions built right in, so we can access what we require simply and quickly. Third, 
+    data structures are necessary to handle high levels of requests for data. We highly need data structures in real 
+    life to make our lives much easier and efficient.
